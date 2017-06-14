@@ -1,0 +1,35 @@
+[
+    {
+    
+        "StudentName":"Varun",
+        "age":22,
+        "subjects":
+            {
+            "Physics":"85",
+            "Chem":"90",
+            "Maths":"95"
+            }
+    },
+    {
+    
+        "StudentName":"Kovid",
+        "age":22,
+        "subjects":
+            {
+            "Physics":"88",
+            "Chem":"92",
+            "Maths":"96"
+            }
+    },
+    {
+    
+        "StudentName":"Yash",
+        "age":22,
+        "subjects":
+            {
+            "Physics":"80",
+            "Chem":"91",
+            "Maths":"93"
+            }
+    }
+]
